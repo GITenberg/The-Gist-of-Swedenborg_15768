@@ -1,0 +1,41 @@
+_repo: The-Gist-of-Swedenborg_15768
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swedenborg, Emanuel
+    birthdate: 1688
+    deathdate: 1772
+    gutenberg_agent_id: '3899'
+    url: http://www.gutenberg.org/2009/agents/3899
+    wikipedia: http://en.wikipedia.org/wiki/Emanuel_Swedenborg
+  editors:
+  - agent_name: Wunsch, William F. (William Frederic)
+    alias: Wunsch, William Frederic
+    birthdate: 1882
+    deathdate: 1969
+    gutenberg_agent_id: '6267'
+    url: http://www.gutenberg.org/2009/agents/6267
+  - agent_name: Smyth, Julian Kennedy
+    alias: Smyth, Julian K. (Julian Kennedy)
+    birthdate: 1856
+    deathdate: 1921
+    gutenberg_agent_id: '6266'
+    url: http://www.gutenberg.org/2009/agents/6266
+description: ''
+gutenberg_issued: '2005-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'New Jerusalem Church -- Doctrinal and controversial works'
+- !lcsh 'Swedenborg, Emanuel, 1688-1772'
+title: The Gist of Swedenborg
+url: http://www.gutenberg.org/ebooks/15768
