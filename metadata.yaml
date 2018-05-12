@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '6266'
     url: http://www.gutenberg.org/2009/agents/6266
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15768#The-Gist-of-Swedenborg
 gutenberg_issued: '2005-05-05'
 gutenberg_type: Text
 identifiers:
